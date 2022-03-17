@@ -1,0 +1,114 @@
+
+*{margin: 0%;
+    padding: 0%;}
+    .main{background-color: aqua;
+            height: 1000px;
+            width: 100%;
+            overflow: hidden;
+    }
+    
+    .header{ background-color: green; 
+            height: 150px;
+            width: 100%;
+            overflow: hidden;
+            text-align: center;
+        font-size: larger;
+    }                              
+    .logo{height: 150px;
+        width: 33.33%; float: left;
+        color: red;
+        line-height: 150px;
+        font-size: xx-large;  
+    }
+    .logo img{height: 150px;
+        width: 100%;
+
+    }
+    .social{ background-color: rgb(128, 0, 0);
+        height: 100px;
+        width: 66.67%;
+        float: left;
+        color: yellow;
+    }
+    .menu{background-color: chocolate;
+            height: 50px;
+            width: 66.67%;
+            float: right;
+            color: yellow;
+            
+    }
+    .menu ul li{float: left;
+        list-style: none;
+        display: block;
+        height: 40px;
+        width: 24%;
+        background-color:blueviolet ); 
+        margin-top: 5px;
+        margin-left: 1%;
+        line-height: 40px;
+    }
+    
+    .menu a{text-decoration: none;
+     color:white;
+    }
+
+    .containt{
+                width: 100%;
+                height: 800px;
+                overflow: hidden;
+                text-align: center;
+                text-decoration:underline ;
+                font-size:x-large;
+               
+            }
+         .gallary { background-image: url(/Images/netflix.jpg); 
+        width: 100%;
+        height: 400px;
+        margin-top: 0%
+        
+    }   
+.gallary h1,h3{color:whitesmoke;
+    line-height: 400%;
+}
+   
+    .course{
+        height: 400px;
+        width: 100%;
+        overflow: hidden;
+        color:whitesmoke;
+    }
+    .bootstrap{
+                height: 400px; width:24%;
+                float: left;
+    }
+    .cloud{
+        height: 400px;  width: 24%;
+        float: left;
+        margin-left: 1%;
+        }
+    .machine{ 
+            height: 400px; width: 24%;
+            float: left;
+            margin-left: 1%;
+    }
+    .system{
+        height: 400px; width: 25%;
+        float: right;
+        margin-left: 1%;
+    
+    }
+    .course img{height: 400px;
+                width: 100%;
+    }
+    
+    
+    .footer{background-color: blueviolet;
+            height: 50px;
+            width: 100%;     
+            font-size: xx-large;
+            color:darkred ;
+            text-align: center;
+    
+    }
+    
+    
