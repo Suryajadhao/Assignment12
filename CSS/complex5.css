@@ -61,7 +61,8 @@
                 font-size:x-large;
                
             }
-         .gallary { background-image: url(/Images/netflix.jpg); 
+         .gallary { background-image: url(Images/netflix.jpg);
+            
         width: 100%;
         height: 400px;
         margin-top: 0%
